@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Purr-fect Cat</string>
+    <string name="search">Search</string>
+    <string name="favourites">Favourites</string>
+    <string name="SearchforCat">Search for a breed of cat:</string>
+    <string name="cat_name">Cat Name </string>
+    <string name="temperament">Temperament:</string>
+    <string name="weight">Weight:</string>
+    <string name="origin">Origin: </string>
+    <string name="lifespan">Life Span (in years):</string>
+    <string name="Wikipedialink">Wikipedia Link: </string>
+    <string name="Dogfriendlinesslevel">Dog Friendliness Level:</string>
+    <string name="About">About</string>
+    <string name="Description">Description</string>
+
+</resources>
